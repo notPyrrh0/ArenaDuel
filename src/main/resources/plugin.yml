@@ -1,0 +1,9 @@
+name: ArenaDuels
+version: ${project.version}
+main: com.politicalmc.arenaduels.ArenaDuels
+api-version: 1.15
+authors: [ _Pesto ]
+description: Duel plugin
+commands:
+  opengui:
+    description: Opens main gui
