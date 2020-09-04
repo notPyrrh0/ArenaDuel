@@ -1,3 +1,3 @@
 # ArenaDuel
 
-###Updates are going to be added later
+### Updates are going to be added later
